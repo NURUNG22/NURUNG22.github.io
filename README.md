@@ -1,2 +1,2 @@
 # NURUNG22.github.io
-git blog
+jijung jjang
